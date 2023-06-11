@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Odnawialne źródła energii</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Odnawialne źródła energii</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Strona główna</a></li>
+        <li><a href="slonce.html">Energia słoneczna</a></li>
+        <li><a href="wiatr.html">Energia wiatru</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Witamy na stronie o odnawialnych źródłach energii!</h2>
+    <p>Znajdziesz tu informacje na temat energii słonecznej i energii wiatru.</p>
+  </section>
+
+  <footer>
+    <p>© Michał Kruszka, Wojciech Krawczyk, Kacper Kozłowski. Wszelkie prawa zastrzeżone.</p>
+  </footer>
+</body>
+</html>
