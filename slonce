@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Energia słoneczna</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Odnawialne źródła energii</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Strona główna</a></li>
+        <li><a href="slonce.html">Energia słoneczna</a></li>
+        <li><a href="wiatr.html">Energia wiatru</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Energia słoneczna</h2>
+    <h3>Opis energii słonecznej i jej wykorzystania jako odnawialnego źródła energii.</h3>
+	<p>Energia słoneczna, jako jedyna ze wszystkich źródeł energii, nie wytwarza żadnych substancji szkodliwych dla atmosfery. Jest to najczystsze i najniezawodniejsze źródło energii. Promieniowanie słoneczne jest stale dostępne na ziemi, i możemy wykorzystać je przez wiele róznych technologii, jak np. panele fotowoltaiczne. Największą zaletą promieniowania słonecznego jest fakt, że jest dostępne na całym świecie. Jest także ekonomiczną opcją, i wykorzytywanie jej przez panele fotowoltaiczne może początkowo wiązać się z dużym kosztem, jednak z czasem odkłada się to na ogromne oszczędności.</p>
+  </section>
+
+  <footer>
+    <p>© Michał Kruszka, Wojciech Krawczyk, Kacper Kozłowski. Wszelkie prawa zastrzeżone.</p>
+  </footer>
+</body>
+</html>
